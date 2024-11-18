@@ -1,1 +1,3 @@
 .venv/
+build/
+rmbprompt.spec
